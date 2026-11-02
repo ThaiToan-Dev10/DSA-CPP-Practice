@@ -22,5 +22,6 @@ int main(){
             cout<<"Số "<<a[i]<<"Xuất hiện" <<dem << "lan"<<endl;
         }
     }
+
     return 0;
 }
